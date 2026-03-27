@@ -313,7 +313,7 @@ es-ES:
 
   00x12FF200000020007: 'Fallo al comprobar la ubicación del filamento en el cabezal, por favor haga clic para obtener más ayuda.'
   00x1200200000020006: 'Fallo al extruir filamento AMS%s Ranura%s, el extrusor puede estar obstruido, o el filamento puede ser demasiado fino, causando el deslizamiento en el extrusor.'
-  00x1200200000030002: 'La ranura%s del AMS%s se le acabo el filamento y se cambio automaticamente a la ranura con el mismo filamento.'
+  00x1200200000030002: 'La ranura%s del AMS%s se le agoto el filamento y se cambio automaticamente a la ranura con el mismo filamento.'
 #NOTIFY END
 
 #CONTROL
